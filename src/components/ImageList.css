@@ -1,0 +1,9 @@
+.image.list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 15px 5px;
+    align-items: center;
+    justify-content: center;
+  }
+  
